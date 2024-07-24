@@ -2,7 +2,7 @@
 
 # Funções são tão importantes em programação, que existem paradigmas que definem um programa inteiro em volta dessa estrutura.
 
-# -> Funções são estruturas de código com sua própria lógica, aonde definimos uma parte do programa que existe de forma independente do resto, podendo ser chamada a qualquer momento para realizar a sua ação. Em outras palavras, funções são mini-programas independentes, dentro do próprio programa. Também são chamados de sub-rotinas.
+# -> Funções são estruturas de código com sua própria lógica, aonde definimos uma parte do programa que existe de forma independente do resto, podendo ser chamada a qualquer momento para realizar a sua ação. Em outras palavras, funções são mini-programas independentes, dentro do próprio programa. Também são chamadas de sub-rotinas.
 
 # -> Uma função bem definida executa apenas uma ação, de forma clara e concisa, existindo de forma independente e gerando o mesmo resultado para a mesma entrada.
 
